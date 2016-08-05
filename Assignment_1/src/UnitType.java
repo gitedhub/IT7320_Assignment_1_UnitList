@@ -1,6 +1,6 @@
 
 public enum UnitType {
-	DogHandler("Dog Handler"), Officer("Police Officer");
+	DogHandler("Dog Handler"), Officer("Police Officer"), Sergeant("Sergeant");
 	
 	private final String unitTitle;
 	
